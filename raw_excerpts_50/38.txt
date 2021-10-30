@@ -1,0 +1,35 @@
+ATT	 Hi it’s Britney Simon calling from Real Estate and Facilities, how are you today?
+VIC	 Good.
+ATT	 Well the reason why I’m calling is because we just conducted an upgrade to our badging system last night and in doing so suffered some pretty widespread data corruption. Right now we’re just trying to get the mess sorted. About 500 or so employee accounts have been flagged for data corruption leading to issues with badges and your account was one of them.
+VIC	 Okay.
+ATT	 I’ve been tasked with getting this remediated as quickly as possible, so I first need to verify that you haven’t had any access issues with your badge today.
+VIC	 No, um, it even works on the printer and everything.
+ATT	 Alright, that is really interesting, so what I need to do now is figure out why your account has been flagged and see about getting that removed.
+VIC	 Okay.
+ATT	 Please bear with me while I try to figure this out – I am going to run through the information I have attached to your account really quick just make sure that what we have in the system is accurate, now… I’m showing that your department is Benefit Contracting.
+VIC	 Yes, that’s correct.
+ATT	 Now I also see that your corporate email is Jane.Doe@funstuff.com that’s J-A-N-E- D-O-T-D-O-E@F-U-N-DOT-S-T-U-F-F-DOT-COM.”
+VIC	 Uh-huh…
+ATT	 And I see the best number to reach you is 888.777.9911 – and that your employee ID number is 123457.
+VIC	 Yes.
+ATT	 Ok, hmmm… well if all of the information we have is correct, I am still trying to figure out why your account has been flagged.  How many times have you printed today?
+VIC	 I did once this morning and then once after lunch.
+ATT	 Hmmm, so twice – I am just looking at your account here and it’s showing me you’ve printed more times than that. So we may have someone else’s employee ID tied to your badge. What I’m going to have to do is a badge reset for you to ensure your physical badge is tied to your employee ID number and not someone else’s, (laughs) man what a day, this is such a mess.
+VIC	 (laughing too)“Ok sure.
+ATT	 Okay, can you tell me again your employee ID number? I just hit reset and it wiped the old one out.
+VIC	 Yes it was 1234567.
+ATT	 Okay so what I’m doing now is conducting the actual reset, give me just a second here…
+VIC	 Okay no problem.
+ATT	 Now while I’m doing this, let me say, if you have any issues getting in and out of the building you can just give us a call back- let me just give you my direct number- and we can perform another reset.  Are you ready for that? 
+VIC	 Okay, go ahead.
+ATT	 It’’s 877-777-1111
+VIC	 Okay.
+ATT	 Now I have almost completed a badge reset for you, but the system is prompting me to verify that the last four digits of your social security number are 0123 to complete the reset.
+VIC	 No, no, that’s not correct – it’s 1234.
+ATT	 Oh goodness, I’m glad we caught that, you are definitely one of the accounts that suffered from data corruption, just a couple more seconds here and I am going to have you set to go.
+VIC	 Okay.
+ATT	 Alrighty, we are complete with the reset and you are good to go.
+VIC	 Ok thank you.
+ATT	 Have a great afternoon.
+VIC	 Same to you.
+ATT	“Bye, bye.

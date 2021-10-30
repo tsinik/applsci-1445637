@@ -1,0 +1,15 @@
+ATT	Hello, is that Janice?
+VIC	Yes, how can I help you?
+ATT	My name is Jerry Hitchings, Assistant to James Wilson-Harding, over here at BankA.
+ATT	Oh yes, I don’t think we’ve spoken before.
+VIC	Yes, I’m quite new to ProjectBig, just been transferred 2 days ago to help out. Been some crazy hours here over the last few days, everyone is working flat out.
+ATT	So you are right in the thick of it, I would guess, things are busy here too.
+ATT	To be honest, it is ge__ing a bit intense and sparks are flying, and now I’ve come in the office and all our main computer systems are down. I’m sure you’ve had things go wrong at just the worst time?
+VIC	Oh yes, I’m sure IT create problems to have maximum impact on us.
+ATT	Well I’m going to get the blame for this one if I can’t prepare these documents in time. It isn’t o__en that I feel scared, however this is one of them.
+VIC	What is the problem?
+ATT	I have to put together the latest update briefing and our response to those reports in the press yesterday. If I don’t have this together in the next hour then I’m probably looking for another job.
+VIC	How can I help?
+ATT	Well luckily I have most of the material on my laptop, however I don’t have the master tender document to cross-reference our response. I have promised this to James by 11:00 am, he is not in the mood for excuses even if our computers are down. He won’t use a computer, so isn’t very understanding.
+VIC	I have the document here, can I help you?
+ATT	Oh great, I was hoping that you can help me. I have got Internet access, so can receive things on my private email account.

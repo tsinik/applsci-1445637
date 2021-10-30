@@ -1,0 +1,39 @@
+ATT	Hi, my old account <my actual email address> was hacked, and so was my email. I was wondering if you can help me get my order numbers off that account for warranty issues.
+VIC	Hello Chris, my name is Vishnu. I will be happy to help you.
+VIC	Before I can view your account I’ll need to do a quick security check. Please confirm the complete name and billing address on your account.
+VIC	I hope we are still connected.
+ATT	I’m sorry! I was doing something. My name is Chris Cardinal, my address is <my full, actual mailing address>.
+VIC	Thank you for the information.
+VIC	In this case would you like to reset your password.
+ATT	I don’t have time for that right now, could you just help me get the order numbers from November 1st to now?
+VIC	Sure, please wait for a minute.
+VIC	The orders placed in the moth of November are as follows:
+VIC	104-8XXXXXX-XXXXXXX
+VIC	Wednesday, November 7
+VIC	107-0XXXXXX-XXXXXXX
+VIC	Monday, November 12, 2012
+VIC	109-9XXXXXX-XXXXXXX
+VIC	Friday, November 23, 2012
+ATT	Is that all?
+VIC	Yes, Chris. These orders were placed in the moth of November.
+ATT	How about December?
+VIC	 In this case I’ll send you an pa sword reset e-mail and you reset your password.
+VIC	Please wait for a minute, Chris.
+ATT	My email is hacked, I’d rather not.
+ATT	I just need my order numbers right now, nothing else..
+VIC	 Orders in the month of December:
+VIC	 107-9XXXXXX-XXXXXXX
+VIC	 Tuesday, December 11, 2012
+VIC	 107-6XXXXXX-XXXXXXX
+VIC	 Tuesday, December 11, 2012
+VIC	 105-6XXXXXX-XXXXXXX
+VIC	 Tuesday, December 11, 2012
+VIC	 106-8XXXXXX-XXXXXXX
+VIC	 Thursday, December 13, 2012
+VIC	 106-2XXXXXX-XXXXXXX
+VIC	 Saturday, December 15, 2012
+VIC	 106-6XXXXXX-XXXXXXX
+VIC	 Saturday, December 15, 2012
+VIC	  106-2XXXXXX-XXXXXXX
+VIC	 Sunday, December 16, 2012
+VIC	 That is all, Chris.

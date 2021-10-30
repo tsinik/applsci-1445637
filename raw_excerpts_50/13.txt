@@ -1,0 +1,45 @@
+ATT	 I promised one of the people in your engineering group I’d get in touch with him and I don’t remember his last name, but his first name started with an S.
+VIC	We have a Scott Archer and a Sam Davidson.
+ATT	Which one works in the STH- 100 group?
+	
+ATT	Hey, this is Mike, in the mail room. We’ve got a FedEx here that’s for the Heart Stent STH-100 project team. Any idea who that should go to?
+VIC	Our project leader is Jerry Mendel
+ATT	Can you give me his phone number?
+VIC	Sure. It 23954948905
+	
+ATT	This is Bill Thomas. Jerry told me I should call you when I had the spec ready that he wanted the guys on his team to review. You’re working on the heart stent, right?
+VIC	Yeah, we are
+ATT	Which system are you on?
+VIC	System?
+ATT	Which computer servers does your group use?
+VIC	Oh, RM22. And some of the group also use GM16.
+ATT	Jerry said you could give me a list of email addresses for people on the development team,
+VIC	Sure. The distribution list is too long to read off, can I email it to you?
+ATT	How about you fax it to me?
+ATT	Our fax machine is on the blink. I’ll have to get the number of another one. Call you back in a bit,
+	
+ATT	Hi, it’s Bill Thomas, our fax machine isn’t working up here, can I have a fax sent to your machine?
+	
+ATT	did my fax come?
+VIC	YES
+ATT	Look, I’ve got to get that to a consultant we’re using. Could you send it out for me?
+	
+ATT	I’m at home, just bought a new laptop, and I need to set it up so I can dial in from outside.
+	
+ATT	Steve, this is Ramon Perez in Tech Support. This is just a courtesy call,” “Three of the servers are down, we think maybe a worm, and we have to wipe the drives and restore from backup. We should be able to have your files up and running by Wednesday or Thursday. If we’re lucky.
+VIC	Absolutely unacceptable,
+VIC	 No way. I’m going to sit down at my home terminal in just about two hours and I will need access to my files. Am I making this clear?
+ATT	Yeah, well, everybody I’ve called so far wants to be at the top of the list. I gave up my weekend to come in and work on this and it’s no fun having everybody I talk to get pissed at me.
+VIC	I’m on a tight deadline, the company is counting on this; I’ve got to get work done this afternoon. What part of this do you not understand?
+ATT	I’ve still got a lot of people to call before I can even get started,How about we say you’ll have your files by Tuesday?
+VIC	Not Tuesday, not Monday, today. NOW
+ATT	Okay, okay,Let me see what I can do to get you going. You use the RM22 server, right?
+VIC	RM22 and the GM16. Both.
+ATT	Right. Okay, I can cut some corners, save some time—I’ll need your username and password.
+VIC	What did you say your last name was? And who’s your supervisor?
+ATT	Ramon Perez. Look, I tell you what, when you were hired, there was a form you had to fill out to get your user account, and you had to put down a password. I could look that up and show you we’ve got it on file here. Okay?
+ATT	Ah, here it is,” Ramon said at last. “You put down the password ‘Janice.’
+VIC	Yes, that’s right,
+ATT	Okay, we’re wasting time here. You know I’m for real, you want me to use the shortcut and get your files back in a hurry, you’re gonna have to help me out here.
+VIC	My ID is s, d, underscore, cramer—c-r-a-m-e-r. The password is ‘pelican1.’
+ATT	I’ll get right on it,” “Give me a couple of hours.

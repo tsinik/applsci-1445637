@@ -1,0 +1,21 @@
+ATT	I ordered 2 burgers from my local Denny's with the included sides and two drinks late last night around 10pm. It's already in the feedback for the order - both burgers were missing, they send their food in opaque boxes so I wouldn't have expected the driver to to notice, but the boxes were just filled with the fries/sides that I ordered. In addition, the drinks were filled up about halfway. You can check my order history if you think I'm making this up, I use GrubHub a lot but a majority of my orders are from this specific location, and I've never had an issue. This is the first time in 10 orders I've experienced something like this. The order number is #xxxxxxxx-xxxxxxx
+VIC	Hi Jim, thank you for chatting in today. One moment while I look into this order for you.
+ATT	Hi, no worries. Thanks for the quick reply
+VIC	It's my pleasure to help you.
+VIC	Unfortunately, the restaurant is closed right now. What I can do is contact the restaurant, when they're open, to try to resolve this issue. Would you prefer a call back or an email to update?
+ATT	Whichever is quicker would be fine, probably a call. However I would like to advise you that although they may currently be closed to GrubHub orders, the restaurant is open 24/7 (I know becuase I visit weekly!)
+VIC	I will try and contact them now for you then. Give me just one moment.
+ATT	Sure, thank you very much
+VIC	You are very welcome.
+VIC	I am on hold with the restaurant.
+ATT	Okay, I'm in no huge rush so take your time please
+VIC	They are contacting the night manager.
+VIC	Just one more moment please.
+VIC	I will refund the burgers on us as the restaurant is certain they put the burgers in the box.
+VIC	I refunded your order. You should be receiving an e-mail shortly.
+VIC	Is there anything else I could help you with today?
+ATT	Okay thank you very much for your help. Sorry for the delay in my response. Could you clarify is the refund for the burgers only or for the drinks as well?
+VIC	I refunded the whole order.
+ATT	Okay understood. One last clarification for me please - it's back to my credit card correct? Or is it some sort of GrubHub credit?
+VIC	The money will go back on your credit card usually within 3-5 business days depending on your bank.
+ATT	Understood, thanks again for your help. Take care

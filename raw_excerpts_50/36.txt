@@ -1,0 +1,71 @@
+VIC	Hello, Eric. My name is Mahesh. I am here to help you today
+VIC	may I know your issue in detail?
+ATT	I need to know where my last order is being shipped
+VIC	Let me check that for you
+VIC	before that, I need to verify your account. Can you please confirm the name on your e-mail address, and your complete billing address?
+ATT	Eric Springer
+ATT	emal: ericwspringer@gmail.com
+ATT	Address 620 STEWART ST, seattle, washington, 98101
+VIC	thanks for the confirmation
+VIC	
+ATT	i don’t have it, but it should be the last order on my account
+ATT	the latest one
+VIC	Just to confirm, are you referring to this item - Waco Intuos Pen and Touch small tablet?
+ATT	yeah
+VIC	thanks for the confirmation
+VIC	Let me check that for you
+VIC	i've checked and see that the order is shipped out and the last tracking shows the item is on …
+VIC	the item will be dellivered to you as estimated
+VIC	there is no need to worry about that
+VIC	Please click the link for your reference
+ATT	can you tell me the shipping address is going to please?
+ATT	yeah
+VIC	the shipping address is Eric Spinger [addres]
+ATT	alright
+ATT	can you tell me the gift card balance on my account?
+VIC	The gift card balance on your account is 0
+ATT	Thanks for the help
+ATT	That is all I needed
+VIC	You are welcome
+ATT	have a good rest of the night or day
+VIC	It has been my pleasure assisting a valued customer like you today
+VIC	Have a great evening. We look forward to seeing you again
+	
+VIC	Hello, my name is Jimmy
+VIC	How may I help you today?
+ATT	I need to check the status of my last order
+VIC	I'd more than willing to assist you today regarding your last order
+VIC	may I know the order number?
+ATT	I don’t have it
+ATT	but it's the last order I made
+VIC	before I look into your account, can yoy please confirm your e-mail address. The name on your account and your complete billing address?
+ATT	ericwspringer@gmail.com
+ATT	[info]
+VIC	Thank you so much
+VIC	is this the item? Dynatrap ultralight insect and mosquito trap
+ATT	Yeah, I need to know where it's being shipped to also
+ATT	Or, the address it was delivered to
+VIC	H have checked here that the package was lost or stuck in transit already.
+ATT	what is the delivery address please?
+ATT	what was the payment method used laso
+VIC	It was your credit card
+VIC	since you didn't receive it, I can help you process arefund
+ATT	not yet.
+ATT	w
+ATT	what was the last 4 digits of that credit card please too?
+VIC	I am sorry, we can't provide it. If you'd like, you may just drop down the last 4 digits of your card and I'll just verify it.
+ATT	it was paid with using my works cedit card
+ATT	I need that info to report back to my boss :/
+ATT	it'd be a big help
+VIC	do you have an access in the account?
+ATT	not, right now
+ATT	if you could give me the last 2 digits that would work?
+VIC	I am sorry, we can't provide it. However, it was the visa card
+ATT	Can you tell me the expiration date then?
+ATT	so I know which card it was
+VIC	I am sorry, we can't provide any information of the card. However, do you have the cards with you right now?
+ATT	I don't. well I'll just have to login later
+ATT	thanks for the help
+VIC	if you would like you may login right now
+ATT	it's fine. Thanks
+	you are welcome. Would there be anythong else that I can help you with?

@@ -1,0 +1,82 @@
+VIC	Hi *****, my name is Jules. How can I help you?
+ATT	Hi Jules!
+VIC	Good day!
+ATT	My flex 2 is charged but won't turn on! Is it normal?
+VIC	No worries now, I'm here to help you get your Flex 2 to turn on. To begin with my investigation, may I know the email address linked to your Fitbit account?
+ATT	Sure! ****************
+VIC	Perfect! Allow me a minute here as I review your account.
+VIC	As I do so, may I know the troubleshoots you've already performed to get it to work again?
+ATT	 Sure, I've read the articles on the Fitbit help center and followed the steps, as well as checking out the community forums.
+ATT	Tried to restart my flex but with no results
+VIC	I appreciate your doing all of this prior to contacting us, *****.
+ATT	Thank you.
+VIC	I can see that its last successful sync was yesterday at 6:09 PM using an Android device and its battery level then is at 65%.
+ATT	Yes, that's right
+VIC	Thanks for confirming!
+VIC	 I can also see that its firmware is up to date so that shouldn't be a problem.
+VIC	May I know now how your Flex 2 reacts when you connect it to its charger to charge? Any vibrations or light up on its display?
+ATT	Nothing at all
+ATT	Like if the flex 2 was dead
+VIC	 I hear you. We may need to restart your tracker three consecutive times to make sure we refresh its system.
+VIC	How does that sound?
+ATT	I'm going to try it
+VIC	Alright! You may properly do so by following the instructions in this article: http://help.fitbit.c..._article/1186/
+VIC	Let me know how it goes. I'm crossing my fingers here.
+ATT	Crossing mine too !
+VIC	 Let's hope for the best result.
+ATT	 Uuhh no results :/ it won't turn on
+VIC	 I appreciate your effort, *****.
+VIC	 Have you tried cleaning their contacts? You may also refer here for the cleaning instructions: http://help.fitbit.c...p_article/2005
+ATT	Thank you, i'm going to try it now.
+VIC	Thank you too for troubleshooting this with me today.
+ATT	So i've cleaned the charging contact with rubbing alcohol. I'm trying to turn it on
+ATT	 aaaand no results :'(
+VIC	Don't be sad now. Let's proceed with other solutions I have here.
+ATT	Sure! Thanks alot!
+VIC	Do you happen to see any damage on the tracker and charging cable? Any damage on their charging contacts, perhaps?
+VIC	Sure thing, *****.
+ATT	No, I don't think so.
+VIC	That's good. How about when you connect it to its charger, is the contact secure or loose?
+ATT	The contact is secure
+VIC	Perfect. Have you tried using a different Flex 2 charger if possible? This is for us to know if it's the tracker or the charger that's the culprit.
+ATT	I've tried my wife's charger this morning and it didn't work
+ATT	 Do you want me to re-try ?
+VIC	 Oh yes, please if you may. This may make changes after we cleaned the contacts.
+VIC	Thank you!
+ATT	Sure!
+VIC	 I hope this one works.
+ATT	No results, like this morning.
+ATT	Uuh :/
+VIC	Thank you again for your efforts.
+ATT	 Thank you for helping me!
+VIC	 The pleasure is mine.
+VIC	Since we've exhausted all the necessary troubleshoots, I'd like to move forward now and review your tracker's warranty status. May I know your current country of residence?
+ATT	 Sure, i'm actually in Spain.
+VIC	Wonderful! I always wish to visit there one day.
+VIC	 May I also know when and where you purchased it?
+ATT	Got it for my birthday on December 2016
+ATT	End of november*
+VIC	That's a sweet gift you have there, *****. Allow me a minute now to review its warranty for you.
+ATT	Thank you!
+VIC	Alright!
+VIC	How's your day so far, by the way?
+ATT	Really good! I was planning to go to the forest today
+ATT	 How's yours ?
+VIC	 Awesome! Mine's wonderful, just getting ready for the weekend.
+VIC	I have great news for you, *****.
+VIC	Upon checking, I can see that your Flex 2 is still covered by Fitbit's limited warranty.
+ATT	That's wonderful!
+VIC	I’ll be sending you an email containing your replacement offer on the email address associated to your Fitbit account. How does that sound?
+ATT	Perfect! Thanks alot!!
+VIC	Agreed! Glad to know your happy.
+VIC	By the way, after our chat you will receive a brief survey. Any feedback you'd like to provide would be most appreciated and will help us refine our support processes.
+ATT	 Sure thing!
+ATT	You're amazing! Thanks again
+VIC	Thank you! You too with all the troubleshoots we tried.
+VIC	I’d like to make sure that I got you all covered. Is there anything else I can assist you in the meantime?
+ATT	 I think everything is good. Thanks!
+VIC	Good to know that! I'll send the email after our chat.
+VIC	Whenever you're ready to go, please click on ""end chat" at the top right part of this window.
+ATT	Thank you, have a nice day, Jules!
+VIC	 Enjoy your day and take care! Have a safe trip in the forest!
+ATT	Thank you!

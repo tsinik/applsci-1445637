@@ -1,0 +1,4 @@
+ATT	Hi Josie, unfortunately we’ve detected that the machine you’re working on has been used to browse, well shall we say, indecent websites?
+VIC	Well it certainly wasn’t me! How dare you
+ATT	Hmm...well there are filters that should block any sites like that, perhaps your machine has been compromised in some way?
+ATT	Could you browse to a few company sites for me so I can check the traffic and find out what’s going?

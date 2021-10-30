@@ -1,0 +1,41 @@
+VIC	Hi Lucia, My name is Angel. How can I help you?
+ATT	Hello Angel, i'm sorry for interrupting you, but i'm experiencing a problem with my Charge 2
+VIC	Oh, you're not interrupting me at all Lucia. How can I help you with your Charge 2?
+ATT	So, I have been very busy with moving from the USA to the Netherlands, and I was able to work out again, when I tried to turn on the Charge 2, I saw that the battery was leaking
+VIC	Oh, no. I am so sorry that your Charge 2's battery is leaking.
+VIC	I will try my best to help you with this.
+VIC	For me to get started, can you confirm to me the email associated with your Fitbit account?”
+ATT	Thank you a lot
+ATT	Sure! The email is ************
+VIC	Thank you.
+VIC	Please stay on the line while I check this out.
+ATT	Alright
+ATT	Take your time
+VIC	Upon checking your account, I see that your Charge 2 was paired on March 27, 2017.
+VIC	May I know where you purchased this?
+ATT	I got it as a gift, from my mom, when I still lived in the USA
+VIC	Thanks for that information. Can you also confirm to me what country are you in right now?
+ATT	Currently I am in the Netherlands
+VIC	Thank you for all those information Lucia.
+ATT	No problem Angel, I am just worried about my Charge 2
+VIC	Since your Charge 2's battery is leaking and it is still covered by Fitbit's warranty, I forwarded your case to the higher department so that they can determine what can be done to your case next. You will be contacted by them to your email address, ********** as soon as they have reviewed the case and help you claim your Fitbit tracker's warranty.
+VIC	You have access to this email, right?
+ATT	Yes I do have acces to this email
+VIC	That's perfect. Please wait for their email with instructions on what to do next with your Charge 2 because they are the appropriate team for such case.
+VIC	In case you'd like to follow up, the case number is **********.
+ATT	How long do you think it will take before I get an email?
+VIC	Rest assured that they will be able to read the chat transcript as well as the documentation in your case.
+VIC	Expect an email within 48-72 hours from now since they would have to review your case first.
+ATT	Alright, thank you a lot Angel, can you maybe send me a confirmation email
+VIC	You're welcome. Let me compose it now to make sure that you'll get it.
+ATT	Okay, take your time!
+VIC	I'm almost done typing.
+VIC	Thanks for your patience.
+VIC	I have sent the email. Kindly check if you received it.
+ATT	I have received it, thank you, I hope I will have a replacement soon and be able to train again!
+VIC	You're welcome! I hope to get you on track again too!
+VIC	For now, is there anything else that I may assist you with?
+ATT	I don't think so, thank you for your time!
+VIC	Thank you as well, Lucia! Please take care always and enjoy the rest of the week!
+VIC	Cheers!
+VIC	By the way, after our chat you will receive a brief survey and we would appreciate you taking the time to tell us how we did for now. To end this chat, kindly click end chat.

@@ -1,0 +1,20 @@
+ATT	This is Eduardo in the Billing Department. I’ve got a lady on hold, she’s a secretary in the executive offices that works for one of the vice pres- idents, and she’s asking for some information and I can’t use my computer. I got an email from this girl in Human Resources that said ‘ILOVEYOU,’ and when I opened the attachment, I couldn’t use my machine any more. A virus. I got caught by a stupid virus. Anyways, could you look up some customer information for me?
+VIC	Sure,” J“It crashed your computer? That’s terrible.
+ATT	Yeah.
+VIC	How can I help?
+ATT	Can you bring up an account on CBIS?
+VIC	Yes, what’s the account number?
+ATT	I don’t have the number; I need you to bring it up by name.
+VIC	Okay, what’s the name?
+ATT	It’s Heather Marning.
+VIC	Okay, I have it up.
+ATT	Great. Is the account current?
+VIC	Uh huh, it’s current.
+ATT	What’s the account number?” he asked.
+VIC	Do you have a pencil?
+ATT	Ready to write.
+VIC	Account number BAZ6573NR27Q.
+ATT	And what’s the service address?
+VIC	The address is Kolokotroni 45
+ATT	And what’s the phone?
+VIC	21307896543

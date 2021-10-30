@@ -1,0 +1,36 @@
+VIC	National Bank, this is Kim. Did you want to open an account today? 
+ATT	Hi, Kim. I have a question for you. Do you guys use CreditChex? 
+VIC	Yes. 
+ATT	When you phone in to CreditChex, what do you call the number you give them... is it a Merchant ID? 
+ATT	Because, Kim, I’m working on a book. It deals with private investigations. 
+VIC	Yes
+ATT	So it’s called a Merchant ID, right?
+VIC	Uh huh. 
+ATT	Okay, great. Because I wanted to make sure I had the lingo right. For the book. Thanks for your help. Good-bye, Kim. 
+VIC	National Bank, New Accounts, this is Chris. 
+ATT	Hi, Chris. This is Alex. I’m a customer service rep with CreditChex. We’re doing a survey to improve our services. Can you spare me a couple of minutes? 
+VIC	Yes, sure.
+ATT	Okay, what are the hours your branch is open for business? 
+ATT	How many employees at your branch use our service? 
+ATT	How often do you call us with an inquiry? 
+ATT	Which of our 800-numbers have we assigned you for calling us? 
+ATT	Have our representatives always been courteous? How’s our response time?_  How long have you been with the bank?_  What Merchant ID are you currently using? 
+ATT	Have you ever found any inaccuracies with the information we’ve provided you? 
+ATT	If you had any suggestions for improving our service, what would they be? 
+ATT	Would you be willing to fill out periodic questionnaires if we send them to your branch? 
+VIC	Yeah, off course! 
+VIC	CreditChex, this is Henry McKinsey, how can I help you? 
+ATT	Hi, am Chris and I am calling from National Bank. I want some information regarding one of our clients.
+VIC	What is your Merchant ID?
+ATT	3679654
+VIC	OK, Who is the client you are interested for? Can you tell me the name and social security number?
+ATT	35939585
+VIC	birth date?
+ATT	20/3/1960
+VIC	Well, Wells Fargo reported NSF in 1998, one time, amount of $2,066.  
+ATT	Any activities since then?
+VIC	No activities.
+ATT	Have there been any other inquiries? 
+VIC	Let’s see. Okay, two of them, both last month. Third United Credit Union of Chicago. 
+VIC	Schenectady Mutual Investments
+VIC	That’s in New York State, he added.

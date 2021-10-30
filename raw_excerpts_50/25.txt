@@ -1,0 +1,28 @@
+VIC	LAPD, Hollenbeck Division.
+ATT	Hi, I’d like to talk to the Subpoena Control.
+VIC	I’m the subpoena clerk.
+ATT	Fine. This is Attorney John Leland, of Meecham, Meecham, and Talbott. I need to subpoena an officer on a case.
+VIC	Okay, which officer?
+ATT	Do you have Officer Kendall in your division?” “What’s his serial number?
+VIC	21349.
+ATT	Yes. When do you need him?
+VIC	Some time next month, but I need to subpoena several other witnesses on the case and then tell the court what days will work for us. Are there any days next month Officer Kendall won’t be available?
+VIC	Let’s see . . . He has vacation days on the 20th through the 23rd, and he has training days on the 8th and 16th.
+ATT	Thanks. That’s all I need right now. I’ll call you back when the court date is set.
+	
+ATT	I’d like to schedule a court date on this traffic ticket.
+VIC	Okay. I can give you the 26th of next month.
+ATT	Well, I’d like to schedule an arraignment.
+VIC	You want an arraignment on a traffic ticket?
+ATT	Yes.
+VIC	Okay. We can set the arraignment tomorrow in the morning or afternoon. What would you like?
+ATT	Afternoon.
+VIC	Arraignment is tomorrow at 1:30 P.M. in Courtroom Six.
+ATT	Thanks. I’ll be there.
+	
+VIC	 Mr. Durea, do you understand the rights that have been explained to you this afternoon?
+ATT	 Yes, your honor.
+VIC	 Do you want to take the opportunity to attend traf- fic school? Your case will be dismissed after successful completion of an eight-hour course. I’ve checked your record and you are presently eligible.
+ATT	 No, your honor. I respectfully request that the case be set for trial. One more thing, your honor, I’ll be traveling out of the country, but I’m available on the 8th or 9th. Would it be possible to set my case for trial on either of those days? I’m leaving on a business trip for Europe tomorrow, and I return in four weeks.
+VIC	 Very well. Trial is set for June 8th, 8:30 A.M., Courtroom Four.
+ATT	 Thank you, your honor.

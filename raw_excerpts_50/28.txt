@@ -1,0 +1,9 @@
+VIC	Tech support. Sylvia speaking. How can I help you?
+ATT	Hi. This is James. I just loaded something on my machine that I shouldn’t have. When I ran the virus scan to clean it off, it also erased my VPN credentials. Can you please give me the credentials again?
+VIC	Sure, I can help you. Please tell me your full name.
+ATT	James Smith. You can call me Jim.
+VIC	Jim? Smith?
+ATT	Yes.
+VIC	Don’t you recognize my voice? This is Sylvia.
+ATT	Sylvia, I’m sorry. I’m so stressed. I clicked on this phish and then loaded some bad software. When I tried to clean it, it messed up my machine. My head is spinning. I think I’m getting a cold; that’s why my voice sounds different. And, on top of everything else, I lost my VPN creds. Forgive me and can you please help me?
+VIC	Sure. No problem, Jim. Let me pull up your credentials.

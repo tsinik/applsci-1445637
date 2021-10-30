@@ -1,0 +1,20 @@
+VIC	Electron City. This is Ted.
+ATT	Hi, Ted. This is Adam. Listen, I was in a few nights ago talking to a sales guy about a cell phone. I said I’d call him back when I decided on the plan I wanted, and I forgot his name. Who’s the guy who works in that department on the night shift?
+VIC	There’s more than one. Was it William?
+ATT	I’m not sure. Maybe it was William. What’s he look like?
+VIC	Tall guy. Kind of skinny.
+ATT	I think that’s him. What’s his last name, again?
+VIC	Hadley. H—A—D—L—E— Y.
+ATT	Yeah, that sounds right. When’s he going to be on?
+VIC	Don’t know his schedule this week, but the evening people come in about five.
+ATT	Good. I’ll try him this evening, then. Thanks, Ted.
+	
+ATT	Katie, hi. This is William Hadley, over at the West Girard store. How’re you today?
+VIC	Little slow, what’s up?
+ATT	I’ve got a customer who came in for that one-cent cell phone program. You know the one I mean?
+VIC	Right. I sold a couple of those last week.
+ATT	You still have some of the phones that go with that plan?
+VIC	Got a stack of them.
+ATT	Great. Cause I just sold one to a customer. The guy passed credit; we signed him up on the contract. I checked the damned inventory and we don’t have any phones left. I’m so embarrassed. Can you do me a favor? I’ll send him over to your store to pick up a phone. Can you sell him the phone for one cent and write him up a receipt? And he’s supposed to call me back once he’s got the phone so I can talk him through how to program it.
+VIC	Yeah, sure. Send him over.
+ATT	Okay. His name is Ted. Ted Yancy.

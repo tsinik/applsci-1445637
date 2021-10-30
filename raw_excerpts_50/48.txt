@@ -1,0 +1,24 @@
+VIC	 Hello, how may I help you?
+ATT	 magic jack started up, then shut down. when i tried to start again, it would not start and directed me to support. went through the steps and still nothing
+VIC	 May I have your magicjack phone number please?
+ATT	 (deleted)
+VIC	 Thank you
+VIC	 May I have your full name and email address please?
+ATT	 barbara peterson (deleted)
+VIC	 Is your magicjack device plugged it in right now?
+ATT	 yes
+VIC	 Is the dial pad is up and read “ready to call” message?
+ATT	 it won’t start
+VIC	 Please check if the blue light is ON?
+ATT	 yes
+VIC	 Are you using USB extension cord?
+ATT	 it’s trying to start now it just started on its own 
+VIC	 is the dial pad upnow?
+ATT	 yes
+VIC	 does it read “ready to call?
+ATT	 yes. it did this morning also, but keeps shutting itself down
+VIC	 I see
+VIC	 great
+VIC	 did you turn your computer OFF?
+ATT	 may i please speak with someone else?
+ATT	 how could i still be online talking with you if i turned my computer off?

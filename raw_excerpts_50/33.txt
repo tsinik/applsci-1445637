@@ -1,0 +1,38 @@
+ATT	Hello, this is Debra Jennings from BankY. I wonder if you can help me?
+VIC	Yes, who would you like to speak with?
+ATT	Well, I am new to BankY, but I need to speak to whoever looks a__er card security for us. 
+VIC	You probably want Miles Harrington-Brookes, he is our security manager. Would you like me to put you through?
+ATT	Yes, thank you
+	
+VIC	Harrington-Brookes. (Assertive to point of aggression!)
+ATT	Good morning Mr Harrington-Brookes, this is Debra Jennings, I work for Jessica Antle here at BankY.
+VIC	Good morning Debra, how may I be of assistance?
+ATT	Are you familiar with Jessica Antle’s area?
+VIC	No, never met Ms Antle.
+ATT	Well Jessica heads up our regulatory compliance unit. She has asked me to call you regarding a PCI audit we are in the middle of here at BankY.
+VIC	Oh. Yet another audit.
+ATT	Yes, they are looking at our card holder data security. I understand you look a__er the physical security around our card manufacturing.
+VIC	Yes that is right
+ATT	Well next week we have an auditor with us, Sarah Clark, and she has asked if she can visit your facility. Sorry for the short notice, but would you be available to show her and myself around?
+VIC	Nothing like giving us notice. I will need something in writing, but I could free up some time on Tuesday. Can you give me details of what she will be wanting? We are very busy here you know.
+	
+ATT	Good morning, I’m here to see Miles Harrington- Brookes.
+VIC	Thank you. Can I have your name please?
+ATT	SarahClark. He should be expecting me.
+VIC	Can I have your photo ID please?
+ATT	Photo ID? I haven’t been told that I need photo ID.
+VIC	I need photo ID to give you access to the site.
+ATT	Miles is expecting me. This has been arranged by BankY.
+VIC	Good morning Sarah. Are you all signed in and badged up?
+VIC	She doesn’t have any photo ID Mr Harrington- Brookes
+ATT	I should have been told about this. I am on a very tight schedule.I understand Debra’s not here either. We have a lot to get through
+VIC	Yes, I can take responsibility for Ms Clark.
+VIC	I just need to take your photo for your badge.
+VIC	I haven’t been given a schedule, can you tell me what you need to see, and how long it will take?
+ATT	Yes. You need to walk me through the security around the card authentication process. Depending upon what you show me, we can then look in more detail at other areas. This may take most of the day. I hope Debra warned you of that.
+VIC	Yes, that is fine. We’ll start with the data centre.
+ATT	Actually, I would like to start with your incoming communication lines, as I need to track the whole data path.
+	
+ATT	Well Mr Harrington-Brooks, I can see that your physical security is very well developed. Apart from those minor issues with CCTV coverage we discussed at the rear of the building, I can see everything is in order. Now I need to examine the IT systems themselves.
+VIC	Sorry, I thought this was just physical security.
+ATT	No, didn’t Debra make this clear? It is the whole security surrounding the credit card making process. If this isn’t your area, then I will need someone from IT to help me.

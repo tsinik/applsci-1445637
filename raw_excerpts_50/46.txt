@@ -1,0 +1,14 @@
+ATT	I purchased 2 orders of Variety Pack, 20 Ounce Bottles (Pack of 12) about 20$ worth and when they came  i opened one and drank it it was not right at all it taste very sour and almost like a acid feeling burning my throat i discarded the bottles but i still have the receipt and was wondering could i get compensation 
+VIC	Welcome to Gatorade.  Someone will be with you momentarily.
+VIC	Hi, I'm Christopher and I will be chatting with you today.
+VIC	Hi Cameron. We're sorry to learn about your experience. I'd like to make a report for quality assurance and send you some replacement couipons for the bottles if that is ok.
+ATT	sure thats fine where could they be used at?
+VIC	They will be manufacturers coupons good at any retailer
+VIC	Could you please tell me where you bought these from and the location of the store, as well as when you purchased them?
+ATT	I purchased them from amazon with a giftcard balance i had left with amazon prime 2 day shipping
+VIC	Can you tell me when about you purchased it?
+ATT	 3/17/2016
+VIC	Thank you. If you'd like to share your address, I can send you the replacement coupons.
+ATT	thanks my address is someaddress 49
+VIC	Thanks, Cameron. I'll get these coupons in the mail and you can expect them to arrive in about a week.
+ATT	 ok thanks

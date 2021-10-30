@@ -1,0 +1,49 @@
+ATT	 Hello, I’d like to know my Comcast email address and password to access Comcast.net.
+VIC	 Hello , Thank you for contacting Comcast Live Chat Support. My name is Jerome.25550. Please give me one moment to review your information.
+VIC	 I will be happy to assist you with your concern today.
+VIC	 Let me assist you on that. One moment please while I review your information.
+VIC	 For account identification, may I please have your complete name, address and phone number?
+ATT	 X Xxxxx
+ATT	 ### Xxxxxxxx Xxxxx, Xxx ###, Xxxxxxxx, XX #####
+ATT	 ###-###-####
+VIC	 Thank you.
+VIC	 For account identification, may you please provide your account number?
+ATT	 i’m looking it up now
+VIC	 Thank you.
+ATT	 ######-#
+VIC	 Thank you.
+VIC	 For identification, may you please verify the last 4 digits of the Social Security Number listed on the account?
+ATT	 ####
+VIC	 Thank you for that information. Let me check that issue for you in my system. One moment please.
+VIC	 Your username is: lisayoung####
+ATT	 who is lisa yong?
+ATT	 that must be a different account
+VIC	 Sorry for that error Melissa.
+VIC	 Let me check that for you. One moment please.
+VIC	 I was able to verify your account details Melissa. You may change that after you are logged it.
+VIC	 I am sorry I do not have access to your email password. However I can create a computer-generated password for you. Would that be okay?
+ATT	 that is fine
+VIC	 Your new password is: xxxxxxxx
+ATT	 and what is my username?
+VIC	 Can you please try that for me by logging in to this link? https://login.comcast.net/login?s=portal&continue=http%3A%2F%2Fmailcenter.comcast.net
+VIC	 Your username is: lisayoung####. I will assist you on changing that Melissa.
+ATT	 ok i’m trying to log in now
+VIC	 Thank you.
+ATT	 yes, this is someone else’s email address. her email is still there
+VIC	 One moment please while I check that information for you.
+ATT	 this is not my account. maybe she used to live at this address
+VIC	 For account identification, may I please have your complete name, address and phone number?
+ATT	 (Wed Apr 9 18:37:35 EDT 2008)>Melissa X Xxxxx(Wed Apr 9 18:37:46 EDT 2008)>### Xxxxxxxx Xxxxx, Xxx ###, Xxxxxxxx, XX ###### (Wed Apr 9 18:37:51 EDT 2008)>###-###-####
+VIC	 Thank you for that information. Let me check that issue for you in my system. One moment please.
+VIC	 With regard to your concern Melissa, I was able to check your account. Did you try contacting your local office or 1-800-COMCAST before you transfer service?
+ATT	 Yes, the local office installed the new apartment
+ATT	 my account number is ######-#
+VIC	 Okay. It seems that your account has encountered an error. What I can do is to make a note on your account for this issue. You may contact your local office or call 1-800-COMCAST.
+ATT	 ok thank you
+VIC	 Is there anything else I can help you with?
+VIC	 You are always welcome. It is my pleasure to be of service.
+VIC	Thank you for contacting Comcast!
+VIC	 If you need assistance in the future, please do not hesitate to contact us through Live Chat or E-Mail (available 24 hours a day, 7 days a week). Comcast also offers excellent FAQ and Help forums located at www.comcast.com to help you reach a resolution independently.
+VIC	 We value your business with Comcast. By answering the online survey right after this chat session, we are able to gather your suggestion and recommendation on how to improve our service. We thank you in advance for accomplishing the survey.
+VIC	 Have a Comcastic day!
+VIC	 Analyst has closed chat and left the room

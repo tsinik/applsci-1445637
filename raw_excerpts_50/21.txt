@@ -1,0 +1,8 @@
+ATT	I’m calling from the Computer Center, we’re making some changes to the network configuration and we want to make sure we don’t disrupt your access. Which server do you connect to?
+VIC	What do you mean, ‘server’?” he was asked.
+ATT	What computer do you connect to when you need to look up student academic information?
+VIC	admin.rnu.edu,
+	
+VIC	 It’s not working, It keeps saying ‘Login incorrect’.
+ATT	 Oh, some of the accounts haven’t been brought over yet to this machine. Let me set up your account, and I’ll call you back.
+ATT	I’m Mark Sellers, in the registrar’s office. You feel like taking pity on a new guy? Sorry to be calling you but they’re all in a meeting this afternoon and there’s no one around to help me. I need to retrieve a list of all graduates with a computer science degree, between 1990 and 2000. They need it by the end of the day and if I don’t have it, I may not have this job for long. You willing to help out a guy in trouble?” Helping people out was part of what this database administra- tor did, so he was extra patient as he talked Michael step by step through the process.

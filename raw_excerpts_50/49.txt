@@ -1,0 +1,14 @@
+VIC	Excuse me, who are you?
+ATT	Oh, hi I'm Jason
+VIC	What are you doing here?
+ATT	I'm just working on an audit
+VIC	For who?
+ATT	With Gerry Gallow
+VIC	Well, you are not supposed to be here without an escort
+ATT	Oh damn it, I'm sorry. I didn't realize Jerry never told me.
+VIC	Do you have anyone here, with you?
+ATT	No, I was hust finishing up some stuff for the night.
+VIC	I'm sorry then I can't let you stay here.
+ATT	Ahhh damn it.
+VIC	I'm sorry, its just ur rules.
+ATT	NO, I get it; its not your fault. Yuh know, its not ven really a big deal. I was going to finish up soon anyway. I can acctually get the rest done at the hotel; it's not a big deal

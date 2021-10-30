@@ -1,0 +1,41 @@
+VIC	Human Resources, Andrea Calhoun.
+ATT	Andrea, hi, this is Alex, with Corporate Security.
+VIC	Yes?
+ATT	How’re you doing today?
+VIC	Okay. What can I help you with?
+ATT	Listen, we’re developing a security seminar for new employees and we need to round up some people to try it out on. I want to get the name and phone number of all the new hires in the past month. Can you help me with that?
+VIC	I won’t be able to get to it ‘til this afternoon. Is that okay? What’s your extension?
+ATT	Sure, okay, it’s 52 ...oh, uh, but I’ll be in meetings most of today. I’ll call you when I’m back in my office, probably after four.
+	
+ATT	Is that Rosemary Morgan?
+VIC	Yes.
+ATT	Hi, Rosemary. This is Bill Jorday, with the Information Security group.
+VIC	Yes?
+ATT	Has anyone from our department discussed best security practices with you?
+VIC	I don’t think so.
+ATT	Well, let’s see. For starters, we don’t allow anybody to install software brought in from outside the company. That’s because we don’t want any liability for unlicensed use of software. And to avoid any problems with software that might have a worm or a virus.
+VIC	Okay
+ATT	Are you aware of our email policies?
+VIC	No.
+ATT	What’s your current email address?
+VIC	Rosemary@ttrzine.net.
+ATT	Do you sign in under the username Rosemary?
+VIC	No, it’s R-underscore-Morgan.
+ATT	Right. We like to make all our new employees aware that it can be dangerous to open any email attachment you aren’t expecting. Lots of viruses and worms get sent around and they come in emails that seem to be from people you know. So if you get an email with an attachment you weren’t expecting you should always check to be sure the person listed as sender really did send you the message. You understand?
+VIC	Yes, I’ve heard about that.
+ATT	Good. And our policy is that you change your password every ninety days. When did you last change your password?” 
+VIC	I’ve only been here three weeks; I’m still using the one I first set.
+ATT	Okay, that’s fine. You can wait the rest of the ninety days. But we need to be sure people are using passwords that aren’t too easy to guess. Are you using a password that consists of both letters and numbers?
+VIC	No.
+ATT	We need to fix that. What password are you using now?
+VIC	It’s my daughter’s name—Annette.
+ATT	That’s really not a secure password. You should never choose a password that’s based on family information. Well, let’s see . . . you could do the same thing I do. It’s okay to use what you’re using now as the first part of the password, but then each time you change it, add a number for the current month.
+VIC	So if I did that now, for March, would I use three, or oh- three.
+ATT	That’s up to you. Which would you be more comfortable with?
+VIC	I guess Annette-three.
+ATT	Fine. Do you want me to walk you through how to make the change?
+VIC	No, I know how.
+ATT	Good. And one more thing we need to talk about. You have antivirus software on your computer and it’s important to keep it up to date. You should never disable the automatic update even if your computer slows down every once in a while. Okay?
+VIC	Sure
+ATT	Very good. And do you have our phone number over here, so you can call us if you have any computer problems?
+VIC	She didn’t. He gave her the number, she wrote it down carefully, and went back to work, once again, pleased at how well taken care of she felt.

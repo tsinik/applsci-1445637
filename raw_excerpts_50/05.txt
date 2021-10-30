@@ -1,0 +1,18 @@
+ATT	Hi,This is Tom at Parkhurst Travel. Your tickets to San Francisco are ready. Do you want us to deliver them, or do you want to pick them up?
+VIC	San Francisco?” Peter says. “I’m not going to San Francisco.
+ATT	Is this Peter Abels?
+VIC	Yes, but I don’t have any trips coming up.
+ATT	Well, you sure you don’t want to go to San Francisco?
+VIC	If you think you can talk my boss into it ...
+ATT	Sounds like a mix-up, On our system, we book travel arrangements under the employee number. Maybe somebody used the wrong number. What’s your employee number?
+	
+ATT	Hi Sarah, It’s Jim in finance, how’s things?
+VIC	Hi Jim, fine thank you, what can I do for you?
+ATT	Sarah, we have just got updated pay information through from the guys that handle our payroll, and we think a lot of it is wrong. It looks like a lot of the employee number’s don’t match what I have on record
+VIC	Uh oh, that doesn’t sound good
+ATT	It’s a disaster Sarah, it looks like at least half of them are wrong, including yours, which could mean that people don’t get paid properly
+VIC	Oh no! 
+ATT	We are trying to correct everybody’s record, and we have got to you in the list, could you read out your employee number so that I can verify that our records are now correct? 
+VIC	Sure, it’s 4454536346346
+ATT	It looks like yours was correct after all, I’m glad we confirmed it though! Wouldn’t want people without pay come the end of the month! 
+	

@@ -1,0 +1,14 @@
+ATT	This is Jake Roberts, from the Non-Pub Bureau. I need to talk to a supervisor.
+ATT	Did you get our memo that we’re changing our number?
+VIC	No, we didn’t.
+ATT	You should be using 213 687-9962.
+VIC	No, We dial 213 320-0055.
+ATT	Okay, We’ll be sending a memo to a second-level regarding the change. Meanwhile keep on using 320-0055 until you get the memo.
+
+ATT	Hi Sarah, It’s Bill Robson from zxycorp, I was talking to Rob last week about the audit we have been working on. He told me that you were the person to speak to in his absence? 
+VIC	Hi Bill, yes, it seems that I have the honor of dealing with Rob’s work for the next couple of weeks! 
+ATT	I guess it’s ok for some, jetting out to the Caribbean while the rest of us stay here and slave away! Anyway, Rob said you would be able to help me get access to some documentation that was on his computer. He didn’t want to e-mail sensitive audit data as it is against company policy 
+VIC	Yeah, they won’t let us send anything these days, it’s crazy
+ATT	Tell me about it, I have to travel all over the place to collect this information. It’s like the old days all over again. Anyway, I can come over at any time this week to collect the information. Rob said you should be able to log into his computer and I’ll bring an encrypted USB stick along so that we can take the data securely,  you got any time free this week?
+VIC	How about Thursday at 2pm?
+ATT	Great, I’ll ask for you at reception, good to speak to you 

@@ -1,0 +1,48 @@
+ATT	Hello, can I please speak to the helpdesk?
+VIC	This is the support desk, can I help you?
+ATT	Oh thanks, this is Sarah Clark calling from BankY. I haven’t called you before, but is this the right number for help with PeopleEasy?
+VIC	Yes, this is the right number Sarah, what is the difficulty?
+ATT	Well, you will have to forgive me, as I am quite new in this role. I am doing some analysis and need help with summary reports. I work mainly from home, and tend to catch up with things once I have put my daughter to bed. I am so glad that you are still available to help me. Tell me, do you always work this late?
+VIC	Yes, I am the lucky person who covers the 7pm to 7am shi__ on Monday to Thursday.
+ATT	So is it okay if I call you at this time? Sorry, I didn’t get your name?
+VIC	Johnny. Yes, that is fine, your support contract is 24/7, and to be honest it can get a bit dull through the night. Call me at 3am if you want.
+ATT	[Laughs]. Okay Johnny, I might just do that if Jessica gets me up like she o__en does. Mind you, I wouldn’t normally be doing work at that time. I don’t envy you working through the night. 
+VIC	Well, it has its advantages. At least there are no bosses to interfere with things. Also, I tend to get longer to sort out your problems out of normal hours because it’s not as busy. Anyway, what is your problem with summary reports? 
+ATT	Oh yes, sorry I forgot that I needed some help. Yes, summary reports. Well, as I said Johnny, I am quite new to this. I am just not sure how to run a report for a department to get our usual employee summary.
+VIC	Well, are you in the reports section?
+ATT	 Yes, I think so. I have searched for reports, but get lots of results. I’m not sure which is the best. 
+VIC	Oh yes, much be__er to go to the management tab, then select reports.
+ATT	Thanks. I can see you are an expert at this. Lucky I called you.
+VIC	Thanks, but at this time, its only me.
+ATT	Okay I can see the reports listed. Are these reports we have set up?
+VIC	Yes, I have done some work for you guys, creating reports. Mainly for Jim Harrison.
+ATT	Oh yes, I haven’t met Jim yet, but I know he has done some work se__ing this up.
+VIC	Yes, you should find a tab for each department. Which one do you need?
+ATT	Well first I was going to just query our service desk staff. But at the moment I am just experimenting to get used to the system. I am sure Johnny you know what it is like when you are new into a job. I want to keep one step ahead. It isn’t easy, especially when you work from home like me. It can get a bit lonely at times.
+VIC	Tell me about it.
+ATT	Okay, that has worked. Great. Might call you again later if that is okay?
+VIC	Sure,anytime.
+ATT	Great to talk to you. Thanks.
+	
+ATT	Thanks Johnny. You are great at helping me when I need it. I bet you have to deal with much more complex problems than my silly requests.
+VIC	Well, it does vary. But most people are not as nice as you. But yes, the other night I was running custom SQL queries directly from the database for Jim.
+ATT	Wow, not sure what that is, but sounds complicated. Can you pre__y much do anything then?
+VIC	Yes, the system’s not that difficult when you’ve been at it for a while.
+	
+ATT	Oh Johnny, sorry to call you. It’s Sarah again. Don’t know what to do. I’m in a real mess here.
+VIC	Its all right, can I help? Sarah, don’t cry, I’ll do my best.
+ATT	I don’t know what to do. I’ve got to get this information for first thing. I’ve been up half the night with Jessica, and now it won’t work.
+VIC	What’s wrong? Tell me the problem, and I’ll see what I can do.
+ATT	I don’t think you can help me. It just won’t work at all. I should have done this yesterday. My boss will probably fire me if I don’t have it for the morning. He’s already been having a go at me for that time off with Jessica last week. He thinks working from home is easy. I’ve no one to turn to when it goes wrong. If you can’t save me Johnny, I don’t know what I’ll do.
+VIC	I’ll do my best. Just tell me the problem Sarah, and we’ll sort it out.
+ATT	I can’t get anything to work. My computer’s playing up and Explorer won’t come up. I’ve rebooted about 50 times. I know you are great at helping, but I’ve only really used spreadsheets before. At my last job they taught me to do loads of things with spreadsheets. Now I can’t even get into PeopleEasy. What can I do?
+VIC	Oh, I don’t know. You say you can’t open Explorer. This is the only way into the system. Are you sure it won’t work?
+ATT	[Crying] ... I’ve told you it won’t work. I have to get these figures. I need lots of reports. I’ve got to summarize all this information. If only it was here in a spreadsheet I could do it in time. [Crying] ...
+VIC	Sarah, don’t cry. You say, if you had a spreadsheet you could do what you need to do?
+ATT	Yes, I think so. It’s just that I need all the information. Can you help me Johnny?
+VIC	Look, I can get you that information. The database is really quite simple. I can make you some spreadsheets with everything you need.
+ATT	[Still sobbing] ... Really? Wow, you are wonderful. Can you do that? I know spreadsheets. You’ve just saved my life.
+VIC	Look, I can get everything you need into some spreadsheets and email them to you.
+ATT	Oh. Can you send them to my personal email, as BankY’s system has been down since yesterday. That’s partly why I’m still here at this time trying to get things done. I need to set off to work in a couple of hours, and my mother is coming round to take Jessica first thing.
+VIC	Can you explain what you need?
+ATT	Johnny, I’m not too sure. Just put it all in a spreadsheet and I’m sure I can sort it out. You are a life saver!

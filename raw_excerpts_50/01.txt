@@ -1,0 +1,40 @@
+ATT	Good morning Maam, I am Bob, I am would like to speak with Ms. Alice
+VIC	Hello, I am Alice
+ATT	Good morning Maam, I am calling from the data center, I am sorry I am calling you so early...
+VIC	Uh, data center office, well, I was having breakfast, but it doesn't matter
+ATT	I was able to call you because of the personal data form you filled when creating your account.
+VIC	My pers.. oh, yes
+ATT	I have to inform you that we had a mail server crash tonight, and we are trying to restore all corporate users' mail. Since you are a remote user, we are clearing your problems first.
+VIC	A crash? Is my mail lost?
+ATT	Oh no, Ma'am, we can restore it. But, since we are datacenter employees, and we are not allowed to mess with the corporate office user's mail, we need your password; otherwise we cannot take any action
+VIC	Er, my password? Well...
+ATT	Yes, I know, you have read on the license agreement that we will never ask for it, but it was written by the legal department, you know, all law stuff for compliance.
+ATT	Your username is AliceDxb, isn't it? Corporate sys dept gave us your username and telephone, but, as smart as they are, not the password. See, without your password nobody can access your mail, even we at the datacenter. But we have to restore your mail, and we need access. You can be sure we will not use your password for anything else, well, we will forget it.
+VIC	Well, it's not so secret (also smiling! It's amazing...), my pass is xxxxxx
+ATT	Thank you very much, Ma'am. We will restore your mail in a few minutes
+VIC	But no mail is lost, isn't it?
+ATT	Absolutely, Ma'am. You should not experience any problems, but do not hesitate to contact us just in case. You will find contact numbers on the Intranet
+VIC	Thanks, you are very efficient, goodbye
+ATT	Goodbye
+
+VIC	Hi xyzcorp, this is Sarah, how can I help?
+ATT	Hi, it’s Bob from HR, could you help me with a couple of questions?
+VIC	Sure Bob, what can I do for you?
+ATT	I’m on my way up to the Leeds office with a couple of colleagues to conduct a training session, but I forgot to e-mail ahead and let Security know I’m coming, and I know how sensitive they are about this stuff. Could you let me know who I need to call to arrange the access? 
+VIC	I’m sorry Bob, I don’t have that information to hand
+ATT	Oh. . .I guess I should have been better prepared! Could you give me the number of reception instead?
+VIC	No problem, let me bring that up. . ..it’s 555.666.111
+ATT	Thank you for your time Sarah, do you know who will be on reception at Leeds today? 
+VIC	The contact sheet says Sue 
+ATT	Thanks again Sarah, bye 
+	
+VIC	Good afternoon xyzcorp Leeds, how can I help?
+ATT	Hi, is that Sue?
+VIC	Hi, It’s Kate, I’m afraid Sue is out for a little while, can I help at all?
+ATT	I’m certain that you can Kate. We were speaking with Sarah at the Reading Office, and she said that Sue would arrange some passes for us and let us know where the meeting rooms are. We are due to deliver some staff awareness training today 
+VIC	I can’t see any information relating to that, and there is nothing in the visitor notes for today 
+ATT	I think there may have been some crossed wires at our end! Sorry about that. We will be due in about 15 minutes, will Sue be back? She will be able to take care of this 
+VIC	She won’t be back for a few hours at least
+ATT	Oh, that’s ok then, I’ll just ask for you when we arrive and we can sort out the passes then 
+VIC	Ok, I’ll see you soon 
+	

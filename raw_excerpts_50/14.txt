@@ -1,0 +1,24 @@
+ATT	Can I speak to Mr. Jones?
+VIC	His first name?
+ATT	I had it here, I’m looking for it. How many Joneses do you have?
+VIC	Three. Which department would he be in?
+ATT	If you read me the names, maybe I’ll recognize it.
+VIC	Barry, Joseph, and Gordon.
+ATT	Joe. I’m pretty sure that was it, and he was in . . . which department?
+VIC	Business Development.
+ATT	Fine. Can you connect me, please?
+ATT	Mr. Jones? Hi, this is Tony in Payroll. We just put through your request to have your paycheck deposited directly to your credit union account.
+VIC	WHAT???!!! You’ve got to be kidding. I didn’t make any request like that. I don’t even have an account at a credit union.
+ATT	Oh, damn, I already put it through.
+ATT	I better see what happened. Payroll changes are  entered by employee number. What’s your employee number?
+VIC	My number is 49345
+ATT	No, you’re right, the request wasn’t from you, then.
+ATT	Look, I’ll see it’s taken care of. I’ll put in a correction right now. So don’t worry— you’ll get your next paycheck okay,
+ATT	his is Joseph Jones,” “I’m in Business Development at corporate. I’ll be in town for the week, at the Driskill Hotel. I’d like to have you set me up with a temporary account so I can access my email without making a long distance call.
+VIC	Let me get that name again, and give me your employee number,
+ATT	My number is 49345
+ATT	Do you have any high speed dial-up numbers?
+VIC	Hold on, buddy. I gotta verify you in the database.
+VIC	Okay, Joe. Tell me, what’s your building number?
+ATT	My building number is 345
+VIC	Okay,”you convinced me.Your username’s going to be the same as your corporate one, jbjones, and I’m giving you an initial password of ‘changeme.’

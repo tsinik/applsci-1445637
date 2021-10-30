@@ -1,0 +1,5 @@
+ATT	Hello, this is Paul from TMZ Waste Disposal. We are a new waste disposal service in the area and have been working with some of the large corporations in the area. I am part of the sales team that handles your region. Could I send you a quote for our services?
+VIC	Well, we are pretty happy with our present supplier, but you can submit a quote.
+_TT	Excellent; may I ask you just a few quick questions?
+VIC	Sure.
+ATT	How many dumpsters do you have?

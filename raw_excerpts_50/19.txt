@@ -1,0 +1,9 @@
+ATT	Hi, this is Peter Sheppard. I’m with Arbuckle Support, the company that does tech support for your firm. We logged a couple of complaints over the weekend from people having problems with the computers there. I thought I could troubleshoot before everybody comes into work this morning. Are you having any problems with your computer or connecting to the network?
+ATT	I’d like to run a couple of tests with you, I’m able to see on my screen the keystrokes you type, and I want to make sure they’re going across the network correctly. So every time you type a stroke, I want you to tell me what it is, and I’ll see if the same letter or number is appearing here. Okay?
+VIC	 I have the login screen, and I’m going to type in my ID. I’m typing it now— M A R Y D.
+ATT	Great so far, I’m seeing that here. Now, go ahead and type your password but don’t tell me what it is. You should never tell anybody your password, not even tech support. I’ll just see asterisks here—your password is protected so I can’t see it.
+ATT	Let me know once your computer has started up.
+ATT	I’m glad I could make sure you’ll be able to use your computer okay. And listen, we just installed an update that allows people to change their passwords. Would you be willing to take a couple of minutes with me so I can see if we got it working right?
+ATT	Go ahead and enter your password, But remember not to say it out loud.
+ATT	Just for this quick test, when it asks for your new password, enter ‘test123.’ Then type it again in the Verification box, and click Enter.
+ATT	Well, Mary, We didn’t find any trouble, and that’s great. Listen, if any problems do come up, just call us over here at Arbuckle. I’m usually on special projects but anybody here who answers can help you.

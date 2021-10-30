@@ -1,0 +1,28 @@
+VIC	Human Resources, this is Sarah.
+ATT	Hi, Sarah. This is George, in the parking garage. You know the access card you use to get into the parking garage and elevators? Well, we had a problem and we need to reprogram the cards for all the new hires from the last fifteen days.
+VIC	So you need their names?
+ATT	And their phone numbers.
+VIC	I can check our new hire list and call you back. What’s your phone number?
+ATT	I’m at 73 . . . Uh, I’m going on break, how about if I call you back in a half-hour?
+VIC	Oh. Okay.
+	
+VIC	Oh, yes. Well, there’s just two. Anna Myrtle, in Finance, she’s a secretary. And that new VP, Mr. Underwood.
+ATT	And the phone numbers?
+VIC	Right. . . . Okay, Mr. Underwood is 6973. Anna Myrtle is 2127.
+ATT	Hey, you’ve been a big help. Thanks.
+	
+VIC	Finance, Anna speaking.
+ATT	I’m glad I found somebody working late. Listen, this is Ron Vittaro, I’m publisher of the business division. I don’t think we’ve been introduced. Welcome to the company.
+VIC	Oh, thank you.
+ATT	Anna, I’m in Los Angeles and I’ve got a crisis. I need to take about ten minutes of your time.
+VIC	Of course. What do you need?
+ATT	Go up to my office. Do you know where my office is?
+VIC	No.
+ATT	Okay, it’s the corner office on the fifteenth floor—room 1502. I’ll call you there in a few minutes. When you get to the office, you’ll need to press the forward button on the phone so my call won’t go directly to my voice mail.
+VIC	Okay, I’m on my way now.
+	
+	
+	
+	
+	
+	

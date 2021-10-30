@@ -1,0 +1,11 @@
+VIC	Good morning, Vulnerable Inc. Sarah speaking, how can I help you?
+ATT	Good morning Sarah, my name is Jake Martin the line seems a little fuzzy, can you hear me ok?
+VIC	Yes I can hear you fine, Sir
+ATT	Excellent, am I through to the help desk?
+VIC	Yes Sir, how can I help?
+ATT	Great, I was just talking to one of your supervisors but I got cut off from a rather important conversation with them and now I can’t remember their name. Can you think who it may have been?”
+VIC	Oh right I’m sorry about that, erm okay could it have been James that you spoke with?”
+ATT	Unfortunately I only caught their second name.
+VIC	James Smith?
+ATT	Ah! Yes! That was it! We were talking about one of your colleagues who has been, well less than helpful let’s say. Listen, could you give me his direct dial just in case I get cut off again mid conversation?
+VIC	Yes of course, you should be able to reach him on

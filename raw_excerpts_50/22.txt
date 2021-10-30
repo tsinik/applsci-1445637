@@ -1,0 +1,46 @@
+ATT	 Oh, sorry, I’ve got to 134 take this other call. What time can I finish this conversation with you so I can make some decisions? When do you leave for lunch?
+VIC	12:30
+ATT	 OK, I’ll try to call back before then or the following day
+	
+ATT	Hello, This is Neil Webster. I’m calling from branch 3182 in Boston. Angela Wisnowski, please.
+VIC	She’s at lunch. Can I help?
+ATT	Well, she left a message asking us to fax some information on one of our customers.”  “The person who normally handles those requests is out sick, I’ve got a stack of these to do, it’s almost 4 o’clock here and I’m supposed to be out of this place to go to a doctor’s appointment in half an hour.
+ATT	Whoever took her phone message, the fax number is unreadable. It’s 213-something. What’s the rest?
+VIC	Fac number is 23423t3
+ATT	Okay, thanks. Before I can fax this, I need to ask you for Code B.
+VIC	But you called me,
+ATT	I’ve got a branch manager that’s just turned paranoid about getting verification before we send anything out, is all. But listen, if you don’t need us to fax the information, it’s okay. No need to verify.
+VIC	Look, Angela will be back in half an hour or so. I can have her call you back.
+ATT	I’ll just tell her I couldn’t send the information today because you wouldn’t identify this as a legitimate request by giving me the code. If I’m not out sick tomorrow, I’ll call her back then.
+VIC	Okay.
+ATT	The message says ‘Urgent.’ Never mind, without verification my hands are tied. You’ll tell her I tried to send it but you wouldn’t give the code, okay?
+VIC	Well, wait a minute; I have to go to my computer. Which code did you want?
+ATT	B,
+VIC	It’s 3184.
+ATT	That’s not the right code.
+VIC	Yes it is—B is 3184.
+ATT	I didn’t say B, I said E.
+VIC	Oh, damn. Wait a minute.
+VIC	E is 9697.
+ATT	9697—right. I’ll have the fax on the way. Okay?
+VIC	Sure. Thanks.
+	
+VIC	Industrial Federal Bank, this is Walter.
+ATT	Hey, Walter, it’s Bob Grabowski in Studio City, branch 38,” the caller said. “I need you to pull a sig card on a customer account and fax it to me.
+VIC	Sure thing. What’s Code C?
+ATT	Another teller is using my computer right now, But I just used B and E, and I remember those. Ask me one of those.
+VIC	Okay, what’s E?
+ATT	E is 9697.
+	
+ATT	Hi, this is Mr. Anselmo.
+VIC	How can I help you today?
+ATT	What’s that 800 number I’m supposed to call when I want to see if a deposit has been credited yet?
+VIC	You’re a customer of the bank?
+ATT	Yes, and I haven’t used the number in a while and now I don’t know where I wrote it down.
+VIC	The number is 800-555-8600.
+ATT	Okay, thanks.
+	
+ATT	This is Tim Ackerman, What’s the branch number there?
+VIC	The phone number or the branch number?
+ATT	Branch number.
+VIC	3182

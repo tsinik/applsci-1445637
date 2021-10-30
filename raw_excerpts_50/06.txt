@@ -1,0 +1,19 @@
+VIC	 Hi, how can I help you?
+ATT	  Hey, this is Paul Anthony. I’m a cable splicer. Listen, a terminal box out here got fried in a fire. Cops think some creep tried to burn his own house down for the insurance. They got me out here alone trying to rewire this entire two hundred-pair terminal. I could really use some help right now. What facilities should be working at 6723 South Main? 
+	
+ATT	Hi, this is Mike Jansen
+VIC	Hi, what is your office number?
+ATT	286
+VIC	Ok, what’s the code?
+ATT	4789
+VIC	Ok, I got that. And now I need the interoffice settlement number.
+ATT	Let me check; I’ll call you right back
+VIC	Thanks!
+
+ATT	Hi it’s Mike in support, we have been seeing errors in the logs on our mail server that indicate you are having issues sending mail, are you still having problems? 
+VIC	No, I’m not having any issues at the moment
+ATT	Ok, can we just do a few quick checks so I can add some details to the support ticket? It will help us later if things stop working 
+VIC	Sure, what do you need me to do? 
+ATT	Ok, we need to double-check that you are connected to the domain properly, are you ready for the next commands? 
+VIC	Fire away
+ATT	Ok, type net accounts /domain 

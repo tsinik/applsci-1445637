@@ -1,0 +1,20 @@
+ATT	This is Bob Billings. I work in the Secure Communications Group. I’m at home right now and I can’t drive in because of the storm. And the problem is that I need to access my workstation and the server from home, and I left my Secure ID in my desk. Can you go fetch it for me? Or can somebody? And then read off my code when I need to get in? Because my team has a critical deadline and there’s no way I can get my work done. And there’s no way I can get to the office—the roads are much too dangerous up my way.
+VIC	I can’t leave the Computer Center.
+ATT	Do you have a Secure ID yourself?
+VIC	There’s one here in the Computer Center. We keep one for the operators in case of an emergency.
+ATT	Listen, Can you do me a big favor? When I need to dial into the network, can you let me borrow your Secure ID? Just until it’s safe to drive in.
+VIC	Who are you again?
+ATT	Bob Billings.
+VIC	Who do you work for?
+ATT	For Ed Trenton.
+VIC	Oh, yeah, I know him.
+ATT	I’m on the second floor, Next to Roy Tucker.
+ATT	It’d be much easier just to go to my desk and fetch my Secure ID for me.
+VIC	I’ll have to ask my boss. Hang on. “He works for Ed Trenton. Can we let him use the Secure ID in the Computer Center?
+VIC	My manager wants to talk to you himself,” and gave him the man’s name and cell phone number.
+	
+ATT	It’d be easier if someone just goes and fetches my card, I don’t think the desk is locked, it should be there in my upper left drawer.
+VIC	Well,just for the weekend, I think we can let you use the one in the Computer Center. I’ll tell the guys on duty that when 87 you call, they should read off the random-access code for you,
+	
+ATT	My server won’t let me connect,. I need you to set me up with an account on one of the computers in your department so I can use Telnet to connect to my system.
+VIC	“call me back when you don’t need it any more and I’ll remove it.

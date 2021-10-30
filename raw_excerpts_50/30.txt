@@ -1,0 +1,12 @@
+VIC	Tech support; this is Sue Smith. How can I help you?
+ATT	Hi, Sue, I am having an issue. I deleted my VPN credentials while doing an online virus scan and now I can’t get back in. I have a report due. Can you help me?
+VIC	Sure, can I have your name?
+ATT	James, but you can call me Jim.
+VIC	Jim, what is your user ID?
+ATT	Actually can I just give you my full name? I always forget a few digits.
+VIC	Sure
+ATT	James Ballo.
+VIC	Jim? Jim Ballo? Wait, you didn’t recognize me? Its Suzie.
+ATT	Ah, Suzie I am so sorry. I am such a moron. Today has been pure hell. I have a cold, which is why my voice sunds different, then i deleted my certs, then i got yelled at by some other security guy for using an online scanner with out permission, plus i got a flat tire this morning….
+VIC	Oh, Jim. I am so sorry, sounds  like a terrible day. What can I do to hap you?
+ATT	I need to get this report over to my boss, and you know what he is like, and I can’t get on the VPN. Can you just give me my credentials again?

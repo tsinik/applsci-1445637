@@ -1,0 +1,30 @@
+VIC	Good afternoon. This is Marie, how may I help you?
+ATT	 Can you connect me to the Transportation Department?
+VIC	I’m not sure if we have one, I’ll look in my directory. Who’s calling?
+ATT	It’s Didi.
+VIC	Are you in the building,or...?
+ATT	 No, I’m outside the building.
+VIC	 Didi who?
+ATT	 Didi Sands. I had the extension for Transportation, but I forgot what it was.
+VIC	 One moment.
+ATT	 What building are you in—Lakeview or Main Place?
+VIC	 Main Place. (pause) It’s 805 555 6469.
+	
+VIC	 Accounts Receivable, Peggy.
+ATT	 Hi, Peggy. This is Didi, in Thousand Oaks.
+VIC	 Hi, Didi.
+ATT	 How ya doing?
+VIC	 Fine.
+ATT	 Excellent. I have a question for you. How do I find out the cost center for a particular department?
+VIC	 You’d have to get ahold of the budget analyst for the department.
+ATT	 Do you know who’d be the budget analyst for Thousand Oaks— headquarters? I’m trying to fill out a form and I don’t know the proper cost center.
+VIC	 I just know when y’all need a cost center number, you call your budget analyst.
+ATT	 Do you have a cost center for your department there in Texas?
+VIC	 We have our own cost center but they don’t give us a complete list of them.
+ATT	 How many digits is the cost center? For example, what’s your cost center?
+VIC	 Well, like, are you with 9WC or with SAT?
+ATT	 9WC.
+VIC	 Then it’s usually four digits. Who did you say you were with?
+ATT	 Headquarters—Thousand Oaks.
+VIC	 Well, here’s one for Thousand Oaks. It’s 1A5N, that’s N like in Nancy.
+	

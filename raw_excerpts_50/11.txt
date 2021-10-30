@@ -1,0 +1,50 @@
+VIC	Tom DeLay, Bookkeeping.
+ATT	Hey, Tom, this is Eddie Martin from the Help Desk. We’re trying to troubleshoot a computer networking problem. Do you know if anyone in your group has been having trouble staying on line?
+VIC	Uh, not that I know of.
+ATT	And you’re not having any problems yourself.
+VIC	No, seems fine.
+ATT	Okay, that’s good. Listen, we’re calling people who might be affected ‘cause it’s important you let us know right away if you lose your network connection.
+VIC	That doesn’t sound good. You think it might happen?
+ATT	We hope not, but you’ll call if it does, right?
+VIC	You better believe it.
+ATT	Listen, sounds like having your network connection go down would be a problem for you ...
+VIC	You bet it would.
+ATT	... so while we’re working on this, let me give you my cell phone number. Then you can reach me directly if you need to.
+VIC	That’d be great. Go ahead.
+ATT	It’s 555 867 5309.
+VIC	555 867 5309. Got it. Hey, thanks. What was your name again?
+ATT	It’s Eddie. Listen, one other thing—I need to check which port your computer is connected to. Take a look on your computer and see if there’s a sticker somewhere that says something like ‘Port Number’.
+VIC	Hang on... No, don’t see anything like that.
+ATT	Okay, then in the back of the computer, can you recognize the network cable.
+VIC	Yeah.
+ATT	Trace it back to where it’s plugged in. See if there’s a label on the jack it’s plugged into.
+VIC	Hold on a second. Yeah, wait a minute—I have to squat down here so I can get close enough to read it. Okay—it says Port 6 dash 47.
+ATT	Good—that’s what we had you down as, just making sure.
+	
+	
+ATT	Hi, this is Bob; I’m in Tom DeLay’s office in Bookkeeping. We’re trying to troubleshoot a cabling problem. I need you to disable Port 6-47.
+VIC	OK, it will be disabled in a few minutes. Let me know when it has to be enabled again
+	
+ATT	Help Desk, Eddie.
+VIC	Oh, hey, Eddie. You’ve got an echo, where are you?
+ATT	I’m, uh, in a cabling closet. Who’s this?
+VIC	It’s Tom DeLay. Boy, am I glad I got ahold of you. Maybe you remember you called me the other day? My network connection just went down like you said it might, and I’m a little panicky here.
+ATT	Yeah, we’ve got a bunch of people down right now. We should have it taken care of by the end of the day. That okay?”
+VIC	NO! Damn, I’ll get way behind if I’m down that long. What’s the best you can do for me?
+ATT	How pressed are you?”
+VIC	I could do some other things for right now. Any chance you could take care of it in half an hour?”
+ATT	HALF AN HOUR! You don’t want much. Well, look, I’ll drop what I’m doing and see if I can tackle it for you.”
+VIC	Hey, I really appreciate that, Eddie.”
+	
+ATT	Tom? It’s Eddie. Go ahead and try your network connection.
+VIC	Oh, good, it’s working. That’s just great.
+ATT	Good, glad I could take care of it for you.
+VIC	Yeah, thanks a lot.
+ATT	Listen, if you want to make sure your connection doesn’t go down again, there’s some software you oughta be running. Just take a couple of minutes.
+VIC	Now’s not the best time.
+ATT	I understand... It could save us both big headaches the next time this network problem happens.
+VIC	Well... if it’s only a few minutes.” 
+ATT	Here’s what you do . . . Go to http://badsite.org and download the file bad.exe. Just double click on it when it downloads
+VIC	It’s not working. It’s not doing anything.
+ATT	Oh, what a pain. Something must be wrong with the program. Let’s just get rid of it, we can try again another time.
+VIC	nevermind… just delete the file and empty the trash

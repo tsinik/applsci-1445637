@@ -1,0 +1,30 @@
+ATT	Are you experiencing any computer issues presently?
+ATT	I’m here to perform a maintenance check of the air conditioning units in the server room, the IT department sent me here as apparently you have keys
+ATT	..an engineer from Vulnerable Inc is arriving in the next 20 minutes or so, can you ensure they sign in and give them a pass to get in and out please. They know what they’re doing and where they’re going.
+ATT	I’ve just been speaking with your manager Susan, she says that you might be able to help me. . .
+ATT	Hello, could you tell me what version of Web browser you’re using? 
+ATT	Hello, I’m calling from the IT department, we’re performing some remote patching, can you tell if your Web browser has been updated to version 7.0? 
+ATT	Hi James, it’s Simon from the Service Desk, have you got 2 seconds or are you guys still busy with the xyz project? Ah well listen, we’re performing some remote patching, can you tell me if your Web browser has been updated to version 7.0? If not I’ll need to send Dave down to sort it out there.
+ATT	Hi James, it’s Simon from marketing, is Stewart there? Ah well, maybe you can help. I’m just onsite with our xyz client, I need to log in remotely but I forgot my RSA fob again, could I possibly use yours? Can you read out what it says?
+ATT	Hi is that Susan? Hello there, this is Rachel calling from xyz bank. I’m calling regarding the current account ending in 1234, we believe there may have been a fraudulent purchase made with the associated debit card and we wanted to check the purchase history with you. For security reasons, before we proceed, could you confirm your security password please. Thank you. 
+ATT	All, We’re trying to push our social media presence. Unfortunately, the vast majority of staff haven’t liked our corporate page. Please could you follow the link to remedy this.  http://www.somesocialmediawebsite.com/ IT Support 
+ATT	All, Thank you for the great positive response to our social media push. The vast majority of your department have responded with a ‘like’ and we’re really pleased. Join the rest of us if you haven’t already using the following link. http://www.somesocialmediawebsite.com/ IT Support
+ATT	Hey Susan, I have already spoken to David and Simon in your department. They were really helpful and answered most of my questions, send my thanks. However, there were a couple of questions they said you’d be the best person to answer, have you got a couple of minutes to help me out? 
+ATT	Hay Susan, I have already spoken to David and Simon in your department. They were really helpful and answered most of my questions, send my thanks. However, there were a couple of questions they said you’d be the best person to answer, have you got a couple of minutes to help me out? 
+ATT	However, they couldn’t answer a couple of questions, can you help? 
+ATT	The police are on their way so I’ll keep you posted, there’s no need for you to come down. I’ve tried to disable the alarm but it’s not working, what code do you normally use?
+ATT	An IT engineer is due to visit the site to install some equipment, could you ensure he signs in and has a pass to move in and out of the building?
+ATT	A colleague from another site is arriving shortly and I won’t be able to meet them, could you send them on to a free meeting room?
+ATT	A potential employee is arriving for a job interview, could you point them in the direction of the IT department please?
+ATT	A University student is conducting a phone survey as part of a research project on job satisfaction
+ATT	A Chamber of Commerce survey on social media in the workplace. 
+ATT	Major utility company is conducting a survey on service performance in the area.
+ATT	The IT department has received reports of e-mail accounts being locked _out, could all users please ensure they can still access the service using the _following link. 
+ATT	Some major changes have been made to the company website, could all _users please ensure they can view it correctly using the following link.
+ATT	The business has been mentioned in a recent news article. Check it out by _following the link below. 
+ATT	There is a major roll out of a new intranet service, to ensure that you _continue to receive a full and complete service, follow the link below to register your details.
+ATT	Have you found the latest version of Internet Explorer to be more stable?
+ATT	We’ve just installed these new RFID devices and they’re causing us no end of trouble. . .
+ATT	The chief executive (character) is in a meeting with important clients and would like the password reset as his current email account password no longer works.
+ATT	The chief executive is in a meeting with very important clients and is annoyed that his password isn’t working. They would like it reset promptly or else there may be consequences for the help desk employee to deal with. 
+ATT	Oh thank god for that! Apparently, there’s going to be a “mystery shopper” type guy at some point today, so we’re all on our guard! The IT department is that way.

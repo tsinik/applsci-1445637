@@ -1,0 +1,17 @@
+VIC	Mod Three. This is May Linn Wang.
+ATT	Ms. Wang, this is Arthur Arondale, in the Office of the Inspector General. Can I call you ‘May’?
+VIC	It’s ‘May Linn’,” she said.
+ATT	Well, it’s like this, May Linn. We’ve got a new guy in here who there’s no computer for yet, and right now he’s got a priority project and he’s using mine. We’re the government of the United States, for cryin’ out loud, and they say they don’t have enough money in the budget to buy a computer for this guy to use. And now my boss thinks I’m falling behind and doesn’t want to hear any excuses, you know?
+VIC	I know what you mean, all right.
+ATT	Can you help me with a quick inquiry on MCS?” he asked, using the name of the computer system for looking up taxpayer information.
+VIC	Sure, what’cha need?
+ATT	The first thing I need you to do is an alphadent on Joseph Johnson, DOB 7/4/69.
+VIC	What do you need to know?
+ATT	What’s his account number?
+ATT	Okay, I need you to do a numident on that account number, OK, I want a DEQY
+VIC	 For what year?
+ATT	 Year 2001.
+VIC	The amount was $190,286, the payer was Johnson MicroTech.
+ATT	Any other wages?
+VIC	No.
+ATT	Thanks, You’ve been very kind.

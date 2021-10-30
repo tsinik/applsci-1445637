@@ -1,0 +1,12 @@
+ATT	Edward, with SeerWare, your database vendor. Apparently a bunch of our customers didn’t get the email about 200 our emergency update, so we’re calling a few for a quality control check to see whether there was a problem installing the patch. Have you installed the update yet?
+VIC	Paul said he was pretty sure he hadn’t seen anything like that.
+ATT	Well, it could cause intermittent catastrophic loss of data, so we recommend you get it installed as soon as possible.
+VIC	Ok, that is something I certainly want to do
+ATT	Okay, We can send you a tape or CD with the patch, and I want to tell you, it’s really critical—two companies already lost several days of data. So you really should get this installed as soon as it arrives, before it happens to your company.
+VIC	Can’t I download it from your Web site?
+ATT	It should be available soon—the tech team has been putting out all these fires. If you want, we can have our customer support center install it for you, remotely. We can either dial up or use Telnet to connect to the system, if you can support that.”
+VIC	We don’t allow Telnet, especially from the Internet—it’s not secure,”  If you can use SSH, that’d be okay,
+ATT	“Yeah. We have SSH. So what’s the IP address?
+VIC	IP is 12.23.34.55
+ATT	Username and password?
+VIC	usernane us Donald and password is 'Duck22'

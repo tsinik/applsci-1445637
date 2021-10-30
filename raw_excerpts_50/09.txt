@@ -1,0 +1,22 @@
+ATT	Hello, I am a happy customer of yours and I would like to thank the manager. What is his name?
+VIC	Tommy Allison sir
+ATT	And the mailing address?... I would like to send a letter thanking him
+VIC	Forest Park, Store 863
+	
+VIC	 Thanks for calling Studio Video. This is Ginny, how can I help you?
+ATT	 Hi, Ginny,it's Tommy Allison, manager at Forest Park, Store 863. We have a customer in here who wants to rent Rocky 5 and we're all out of copies. Can you check on what you've got?
+VIC	 Yeah, we've got three copies.
+ATT	 Okay, I'll see if he wants to drive over there. Listen, thanks. If you ever need any help from our store, just call and ask for Tommy. I'll be glad to do whatever I can for you.
+	
+ATT	 Have you guys been having trouble with your computers?
+VIC	  No, Why?
+ATT	 Some guy crashed his car into a telephone pole, and the phone company repairman says a whole part of the city will lose their phones and Internet connection till they get this fixed.
+VIC	 Oh, no. Was the man hurt?
+ATT	 They took him away in an ambulance. Anyway, I could use a little help. I've got a customer of yours here who wants to rent Godfather II and doesn't have his card with him. Could you verify his information for me?
+VIC	 Yeah, sure.
+ATT	His name is Donald Duck, and his address Karaiskaki 23
+VIC	OK, his account number is 3475583
+ATT	 Any late returns or balance owed? 
+VIC	 Nothing showing.
+ATT	 Okay, great. I'll sign him up by hand for an account here and put it in our database later on when the computers come back up again. And he wants to put this charge on the Visa card he uses at your store, and he doesn't have it with him. What's the card number and expiration date?
+ATT	 Hey, thanks for the help. Talk to you soon

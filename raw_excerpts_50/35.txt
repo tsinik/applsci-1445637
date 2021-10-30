@@ -1,0 +1,69 @@
+ATT	Hi my name is Scott. May I check on my replacement Kindle shipment status that was placed earlier today?
+VIC	Hello, Scott.
+VIC	Could you please help me with the order number?
+ATT	 I do not have the order number with me right now. Could you please help look into my account? The order was placed earlier in the day.
+VIC	Scott, I need the email address associated with your amazon account?
+ATT	sure.
+ATT	[my email address]
+VIC	Please give me a minute to check that.
+VIC	Before I can view your account I'll need to do a quick security check. Please confirm the email address, complete name, and billing address on your account.
+ATT	[my address]
+ATT	Scott hanselman
+VIC	Thank you for the information.
+VIC	The kindle device which your referring to will be delivered to you by: Tuesday, February 12, 2013
+ATT	do you have the tracking number for this shipment?
+VIC	Yes, the tracking number is 1Z0ERxxxxxxxxxxxx
+ATT	Thank you.
+VIC	You’re welcome!
+ATT	Please hold on.
+VIC	Sure.
+ATT	May I know how can I change the shipping address?
+ATT	 I just contacted UPS, and was told to contact the shipper, which is Amazon, to change the shipping address.
+VIC	 This is the shipping address:
+VIC	Scott Hanselman
+VIC	[my address]
+VIC	United States
+VIC	Primary Phone: [my phone]
+ATT	Yes, but I would like to change the shipping address.
+VIC	I am sorry, the shipping address cannot be changed now, since the item has been shipped.
+ATT	 I understand, but UPS told me that this is still possible, but only Amazon can contact UPS to do so.
+ATT	Are you able to transfer me to someone who is able to help out?
+VIC	Please give me a minute to check that.
+VIC	Thank you for being on hold.
+VIC	I've contacted UPS and asked them to hold this package for you.
+ATT	?
+ATT	I do not need UPS to hold the package for me.
+ATT	Please confirm with me first before making any changes.
+VIC	I understand that you want to change the address, but that cannot be done now since the package has been shipped.
+ATT	Could you please help me call UPS to enquire?
+VIC	Sure.
+ATT	If you are not able to make any outgoing calls, please transfer me to a colleague who may do so.
+VIC	 Please give me a minute to do that.
+ATT	Sure.
+VIC	Scott, could you please help me with the address to which you want the package to be redirected to?
+ATT	Sure.
+ATT	[Address in Portland with ""NUM99999"" at the end of the street]
+VIC	Thank you for the information.
+VIC	 Please be on hold while I contact UPS regarding it.
+VIC	Thank you for being on hold.
+VIC	Could you please help me with your phone number?
+ATT	No worries.
+ATT	Sure
+ATT	 425-406-xxxx
+VIC	Please give me a minute.
+VIC	 Could you please help me with your country code?
+VIC	Thank you.
+VIC	 I am sorry for the delay.
+ATT	No worries.
+VIC	I have requested for a delivery change of the address to the UPS carrier.
+ATT	Thank you. May I know when is the scheduled delivery date?
+VIC	You're Welcome. Yes, it will be delivered as scheduled.
+VIC	 Here is the link, you may view the details:
+ATT	Thank you so much. You do not need to follow up with an email to me as I hardly check my emails. Would that be okay?
+VIC	You're Welcome. I am sorry, I'll need to send you an follow up email.
+ATT	Oh. You do not have to do so actually.
+VIC	I understand your concern, but as per our policy I'll need to send you an email.
+ATT	An auto generated email to complete the survey is fine.
+VIC	Okay, sure.
+ATT	 I will complete the survey when I have the time, but you don't have to include other details in the email.
+VIC	Sure, Scott. I'll do that.

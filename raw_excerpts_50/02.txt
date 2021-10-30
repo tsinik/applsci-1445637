@@ -1,0 +1,27 @@
+ATT	Hi, this is Mike Jansen
+VIC	Hi, what is your office number?
+ATT	286
+VIC	Ok, what’s the code?
+ATT	4789
+VIC	Ok, I got that. And now I need the interoffice settlement number.
+ATT	Let me check; I’ll call you right back
+VIC	Thanks!
+
+VIC	Good afternoon, Medical Group, this is Mary. Can I help you?
+ATT	Yes, this is Doctor Wiles, I am calling to ask a favor. We have a practice similar to yours in Richmond, and we are considering purchasing a new medical billing system. Do you use a fully automated system for your accounting, and if so do you like it?
+VIC	Yes we do, It's called Doctors Database and I believe that they are located in Denver, Colorado.
+ATT	Do they offer support when you have problems? We 've heard some nightmares from friends who purchased medical billing systems and couldn't get support once they paid for it.
+VIC	Yes, we 've been very happy with their support,
+ATT	How about upgrades and things that need to be fixed? Do they have someone locally that they send to work on the billing system?
+VIC	No, they do everything over a modem that is attached to the system. We 've never had a problem with their needing to be here.
+ATT	Before we make such a big decision, I'd like to speak with someone from Doctors Database to be sure that this would be the right billing system for us. Could you give me the name and number of the tech support person that you work with when you call them for support? Some of those technical people are very hard to understand. I always feel more comfortable after I‚Äö   've had a chance to speak with the people that our administrator will be working with when problems develop.
+VIC	Yes, we work with Jerry Johnson and he's really easy to talk to. He should be in the office this afternoon if you call before six, east coast time. Their phone number is 800-555-1212 and they have someone available for support by phone twenty-four hours a day.
+ATT	I really appreciate your taking the time to help me with this, Mary. After we get the new billing system, would you mind if someone from my office called your database administrator if our administrator has any user questions? It's always easier to ask someone who actually uses the system rather than trying to get the vendor to answer simple questions. I promise that we won't pester you.
+VIC	I am the administrator of the database and I would be happy to answer a few questions for you.
+ATT	Thanks so much for helping me with this, Mary, I'll be sure to have our administrator call you only if he really gets stuck. Have a great week and thanks again.
+VIC	Good afternoon, The Medical Group, John speaking. May I help you?
+ATT	Hello John, this is Bill Jenkins from Doctors Database in Denver. We‚Äö   're calling all our customers about a serious problem with our medical billing system. It seems that our last update had a virus that we were unaware of until this afternoon. It's causing all of the accounts receivable records to be corrupted. Our entire tech support team is calling our clients as quickly as possible to let them know about the problem. I know that Mary normally works with Jerry Johnson, but he is currently working with another client and has asked me to handle the fix for your system. Can I speak with Mary?
+VIC	With the holiday weekend coming up, Mary is off today. I act as her backup on the database work when she off, and I'll try to help if I can.
+ATT	Mary's not there? John, I'm going to need to log in to your system to fix this, and I don't have Jerry's information in front of me‚ you know, your modem dial in number, login ID and password. If we need to get those from Mary, we may have a problem. That virus could be loose on your network all weekend.
+VIC	I found it here in her notebook. The phone number is 555-867-5309, the login ID is doctor, and the password is also doctor.
+ATT	John, you've been a great help, and I can take it from here. It's been taking about four hours to clean this up and I know that it's Friday afternoon. I don't see any need for you to hang around. I'll install the fix, and things will be back to normal when you get back on Tuesday. Thanks again for your help. Enjoy the weekend!
