@@ -1,0 +1,493 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/tsinik/ontologies/2021/5/SE-Assets"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/tsinik/ontologies/2021/5/SE-Assets">
+    <Prefix name="" IRI="http://www.semanticweb.org/tsinik/ontologies/2021/5/SE-Assets"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#Asset"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CD"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Command_Line"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DVD"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Department"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Department_Email"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Department_Name"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Department_Telephone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Email"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Employee"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Employee_Email"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Employee_Name"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Employee_Telephone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Enterprise"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Enterprise_Address"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Enterprise_Location"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Enterprise_Name"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hardware"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IT"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Infrastructure"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Network"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Network_Address"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OS"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Office_Number"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Password"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Personal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Personal_Address"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Personal_Email"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Personal_Name"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Personal_Telephone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Position"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Risk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SME"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sensitive_Data"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Server"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Service"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Social_Engineer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Software"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Threat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Threat_Agent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#USB_Stick"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vulnerability"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Web_Page"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#contains"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#enables"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#exploit"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#giveRiseTo"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isA"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#leadTo"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#targets"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#to"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#value"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#wantToExtort"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#CD"/>
+        <Class IRI="#Hardware"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Command_Line"/>
+        <Class IRI="#Software"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DVD"/>
+        <Class IRI="#Hardware"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Department"/>
+        <Class IRI="#SME"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Department_Email"/>
+        <Class IRI="#Department"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Department_Name"/>
+        <Class IRI="#Department"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Department_Telephone"/>
+        <Class IRI="#Department"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Email"/>
+        <Class IRI="#Service"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Employee"/>
+        <Class IRI="#SME"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Employee_Email"/>
+        <Class IRI="#Employee"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Employee_Name"/>
+        <Class IRI="#Employee"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Employee_Telephone"/>
+        <Class IRI="#Employee"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Enterprise"/>
+        <Class IRI="#SME"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Enterprise_Address"/>
+        <Class IRI="#Enterprise"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Enterprise_Location"/>
+        <Class IRI="#Enterprise"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Enterprise_Name"/>
+        <Class IRI="#Enterprise"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hardware"/>
+        <Class IRI="#IT"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Infrastructure"/>
+        <Class IRI="#IT"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Network"/>
+        <Class IRI="#Infrastructure"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Network_Address"/>
+        <Class IRI="#Network"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OS"/>
+        <Class IRI="#Software"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Office_Number"/>
+        <Class IRI="#Employee"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Password"/>
+        <Class IRI="#OS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Personal_Address"/>
+        <Class IRI="#Personal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Personal_Email"/>
+        <Class IRI="#Personal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Personal_Name"/>
+        <Class IRI="#Personal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Personal_Telephone"/>
+        <Class IRI="#Personal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Position"/>
+        <Class IRI="#Employee"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sensitive_Data"/>
+        <Class IRI="#Asset"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Server"/>
+        <Class IRI="#Infrastructure"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Service"/>
+        <Class IRI="#IT"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Social_Engineer"/>
+        <Class IRI="#Threat_Agent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Software"/>
+        <Class IRI="#IT"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#USB_Stick"/>
+        <Class IRI="#Hardware"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Web_Page"/>
+        <Class IRI="#Software"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#CD"/>
+        <Class IRI="#DVD"/>
+        <Class IRI="#USB_Stick"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Command_Line"/>
+        <Class IRI="#OS"/>
+        <Class IRI="#Web_Page"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Department"/>
+        <Class IRI="#Department_Email"/>
+        <Class IRI="#Department_Telephone"/>
+        <Class IRI="#Enterprise_Address"/>
+        <Class IRI="#Enterprise_Location"/>
+        <Class IRI="#Enterprise_Name"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Department_Name"/>
+        <Class IRI="#Employee_Email"/>
+        <Class IRI="#Employee_Name"/>
+        <Class IRI="#Employee_Telephone"/>
+        <Class IRI="#Office_Number"/>
+        <Class IRI="#Position"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Employee"/>
+        <Class IRI="#Enterprise"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Hardware"/>
+        <Class IRI="#Infrastructure"/>
+        <Class IRI="#Service"/>
+        <Class IRI="#Software"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#IT"/>
+        <Class IRI="#Personal"/>
+        <Class IRI="#SME"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Network"/>
+        <Class IRI="#Server"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Personal_Email"/>
+        <Class IRI="#Personal_Name"/>
+        <Class IRI="#Personal_Telephone"/>
+    </DisjointClasses>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#isA"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#contains"/>
+    </TransitiveObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#enables"/>
+    </TransitiveObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#isA"/>
+    </TransitiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#contains"/>
+        <Class IRI="#Sensitive_Data"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#exploit"/>
+        <Class IRI="#Threat"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#giveRiseTo"/>
+        <Class IRI="#Threat_Agent"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has"/>
+        <Class IRI="#SME"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isA"/>
+        <Class IRI="#Sensitive_Data"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isA"/>
+        <Class IRI="#Social_Engineer"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#leadTo"/>
+        <Class IRI="#Vulnerability"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#targets"/>
+        <Class IRI="#Social_Engineer"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#to"/>
+        <Class IRI="#Risk"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#to"/>
+        <Class IRI="#Threat"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#value"/>
+        <Class IRI="#SME"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#wantToExtort"/>
+        <Class IRI="#Threat_Agent"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#contains"/>
+        <Class IRI="#Employee"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#contains"/>
+        <Class IRI="#IT"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#contains"/>
+        <Class IRI="#Personal"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#contains"/>
+        <Class IRI="#SME"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#enables"/>
+        <Class IRI="#Threat"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#exploit"/>
+        <Class IRI="#Vulnerability"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#giveRiseTo"/>
+        <Class IRI="#Threat"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has"/>
+        <Class IRI="#Employee"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isA"/>
+        <Class IRI="#Asset"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isA"/>
+        <Class IRI="#Threat_Agent"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#leadTo"/>
+        <Class IRI="#Risk"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#targets"/>
+        <Class IRI="#Employee"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#to"/>
+        <Class IRI="#Asset"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#value"/>
+        <Class IRI="#Asset"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#wantToExtort"/>
+        <Class IRI="#Asset"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
