@@ -1,6 +1,13 @@
 # applsci-1445637
+[![DOI](https://zenodo.org/badge/422476190.svg)](https://zenodo.org/badge/latestdoi/422476190)
+[![GitHub license](https://img.shields.io/github/license/tsinik/applsci-1445637)](https://github.com/tsinik/applsci-1445637/blob/main/LICENSE)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/tsinik/applsci-1445637)
 
-This repository contains files related to applsci-1445637 research work
+This repository contains files related to applsci-1445637 research work <br/>
+
+
+
+
 
 - bl_1.tx                           - Blacklist. <br/>
 - bl_2.tx                           - Blacklist. <br/>
